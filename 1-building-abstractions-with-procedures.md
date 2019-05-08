@@ -1,4 +1,4 @@
-# Building Abstractions with Procedures
+# 1. Building Abstractions with Procedures
 
 > The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three:  
 > 1. Combining several simple ideas into one compound one, and thus all complex ideas are made.  

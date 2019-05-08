@@ -1,4 +1,4 @@
-# Construindo Abstrações com procedimentos
+# 1. Construindo Abstrações com procedimentos
 
 > Os atos da mente, que exercem poder sobre ideias simples, são principalmente três:  
 > 1. Combinando várias idéias simples para formar uma composta, originando, assim, todas as idéias complexas.  
